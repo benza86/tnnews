@@ -9,7 +9,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "http://medooappli.xyz/hiw1.html"
+          "http://medooappli.xyz/update.html"
         ]
       }
     ]
