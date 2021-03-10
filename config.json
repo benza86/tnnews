@@ -9,7 +9,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "http://www.mobiapps.xyz/livefoot.html"
+          "http://www.mobiapps.xyz"
         ]
       }
     ]
@@ -22,7 +22,7 @@
   {
     "title":"عن التطبيق",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"اخري",
     "iap":false,
     "tabs":[
       {
