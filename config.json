@@ -29,7 +29,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.med.appm.coupemonde.SettingsFragment", "fragment"
+          "com.medooapps.tnews.SettingsFragment", "fragment"
         ]
       }
     ]
