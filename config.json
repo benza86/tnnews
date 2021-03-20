@@ -1812,7 +1812,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.medooapps.tuni3ada.SettingsFragment", "fragment"
+          "com.medooapps.tunimod2.SettingsFragment", "fragment"
         ]
       }
     ]
